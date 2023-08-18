@@ -15,3 +15,8 @@ REGISTRO
 ![Untitled (31)](https://github.com/Bismarxd/Campamento-Web/assets/68196095/314c670a-8ae0-43d5-94c0-0b11b389b616)
 ![Untitled (32)](https://github.com/Bismarxd/Campamento-Web/assets/68196095/49b6ec00-a978-43dd-acbe-168b518b4200)
 CARACTERISTICAS
+1. PHP PARA EL BACKEND
+2. SASS Y JAVASCRIPT PARA EL DISEÑO
+3. AUTENTICACION
+4. SECCION DE ADMINISTRADOR
+5. PAGOS EN LINEA 
